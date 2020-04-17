@@ -1,4 +1,1 @@
-<details>
-  <summary>質問hogehoge</summary>
-    回答hogehoge
-</details>
+# 質問トップ
