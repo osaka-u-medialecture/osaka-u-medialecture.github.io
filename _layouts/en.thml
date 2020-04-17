@@ -30,10 +30,10 @@
           {% endif %}
           <div class="menu">
             <ul>
-                <li><a href="https://osaka-u-medialecture.github.io/">TOP</a></li>
-                <li><a href="https://osaka-u-medialecture.github.io/cle">CLE</a></li>
-                <li><a href="https://osaka-u-medialecture.github.io/cho">echo</a></li>
-                <li><a href="https://osaka-u-medialecture.github.io/nquiry">inquiry</a></li>
+                <li><a href="https://osaka-u-medialecture.github.io/en/">TOP</a></li>
+                <li><a href="https://osaka-u-medialecture.github.io/en/cle">CLE</a></li>
+                <li><a href="https://osaka-u-medialecture.github.io/en/echo">echo</a></li>
+                <li><a href="https://osaka-u-medialecture.github.io/en/inquiry">inquiry</a></li>
             </ul>
           </div>
         </header>
