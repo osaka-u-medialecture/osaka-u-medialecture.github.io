@@ -23,13 +23,13 @@ Q.CLEの英語版を見つけられません．
 A.CLEトップページの「How to switch to English Menu」をクリックしていただきますと、英語表示への切り替え方法をご確認いただけます。  
 
 Q.Is there an English manual available?  
-A.You can find English help page on the Internet. https://help.blackboard.com/Learn  
+A.You can find English help page on the Internet. <https://help.blackboard.com/Learn>  
 
 ## CLEを利用した課題の取り扱いについての質問
 
 Q.発音などを録音した音声ファイルを、学生に提出してもらう事は可能でしょうか。  
 A.音声ファイルも添付ファイルとして提出できます 。アップロードできるファイルの最大サイズは2500MBです。なお、ブラウザで再生できるファイル形式は環境に依存します。ファイル形式はMP3を推奨します。課題の添付ファイルとして提出可能なファイル形式はこちらのリンクをご確認ください。  
-https://help.blackboard.com/ja-jp/Learn/Student/Assignments/Supported_File_Types  
+<https://help.blackboard.com/ja-jp/Learn/Student/Assignments/Supported_File_Types>  
 
 Q.CLEで一括してレポートを出してもらい、それを集約する機能があれば助かります。  
 A.CLEで課題を作成していただければ、提出された課題を一括でダウンロードすることは可能ですので、メールで提出より簡単に課題を１つのフォルダにまとめることはできます。しかしながら、ダウンロードされた課題は、学生が提出したファイル単位となりますので、1つのファイルにすべての学生の課題を集約することはCLEの機能ではできません。課題の作成方法につきましては、マニュアルの入門編をご参照ください。  
