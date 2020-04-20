@@ -3,7 +3,7 @@
 Q.CLEとECHOのリンクがうまくいきません。  
 A.可能性としてはブラウザの問題が考えられます。現在Safariの古いバージョンに不具合が確認されており、推奨ブラウザは以下の通りとなっております。ブラウザを変えてお試しください。  
 Windows：Edge, FireFox, Chrome  
-Mac：FireFox, Chrome\n\n  
+Mac：FireFox, Chrome  
 ・不具合情報　<https://www.cmc.osaka-u.ac.jp/?page_id=6205>  
 
 Q.TA・TFをコースに追加したい。  
