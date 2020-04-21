@@ -9,19 +9,19 @@
 # 大阪大学 オンライン授業の実施のための情報
 
 
-<span style="font-size : 120%">**「遠隔講義などメディア授業に関する情報提供ページ」（サイバーメディアセンター）**</span>  
+<span style="font-size : 150%">**「遠隔講義などメディア授業に関する情報提供ページ」（サイバーメディアセンター）**</span>  
 <https://www.cmc.osaka-u.ac.jp/?page_id=6184>
 
 メディア授業を実践する上で、大阪大学で利用できるシステムを概観し、どのような選択肢があるかを紹介しています。
 CLE、Blackboard Collaborate Ultra、echo360、などがあります。
 
-<span style="font-size : 120%">**「オンライン授業実践ガイド」（全学教育推進機構 教育学習支援部）**</span>  
+<span style="font-size : 150%">**「オンライン授業実践ガイド」（全学教育推進機構 教育学習支援部）**</span>  
 <https://www.tlsc.osaka-u.ac.jp/project/onlinelecture/>
 
 大阪大学でオンライン授業を実施するためのシステムの紹介をし、授業実践を行う上で重要となる授業デザインに関する情報や注意すべき点などを説明しています。
 オンライン授業の10の形態、実践するための10のポイントなどを紹介しています。
 
-<span style="font-size : 120%">**「ZOOM + a」（サイバーメディアセンター言語教育支援研究部門）**</span>  
+<span style="font-size : 150%">**「ZOOM + a」（サイバーメディアセンター言語教育支援研究部門）**</span>  
 <https://zoom.les.cmc.osaka-u.ac.jp/>
 
 Web会議システムZoom、授業支援クラウド（ロイロノートスクール）を使った遠隔授業の実践を行うための情報を提供しています。
