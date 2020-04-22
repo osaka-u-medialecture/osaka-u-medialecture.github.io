@@ -4,5 +4,6 @@
 
 # 問い合わせ
 解決しなかった場合はこちらのフォームにご記入ください。
+<div class="iframe-wrap">
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSctd0cCy3UNsu6YIRRRsGrMv6qpdPiRB_sulIuwL14HW7yz8Q/viewform?embedded=true" width="640" height="892" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
-
+</div>
