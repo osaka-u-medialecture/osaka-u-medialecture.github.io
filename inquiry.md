@@ -1,1 +1,8 @@
-解決しなかった場合は[こちら](https://docs.google.com/forms/d/e/1FAIpQLSd1aPNJ_klV9VPZUY-l8zVY72Hq92vE8DXvSOhiTcgy0tUDSg/viewform)からご質問下さい．
+# チャットでの質問
+メディア教育に関して、チャットbotでの質問を受け付けています。
+<https://sites.google.com/site/sshimojo/medialec>
+
+# 問い合わせ
+解決しなかった場合はこちらのフォームにご記入ください。
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSctd0cCy3UNsu6YIRRRsGrMv6qpdPiRB_sulIuwL14HW7yz8Q/viewform?embedded=true" width="640" height="892" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
+
