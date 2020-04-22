@@ -387,6 +387,16 @@ Small Device Styles
     font-weight: 700;
     text-shadow: #111 0px 0px 10px;
   }
+  
+  .iframe-wrap {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-top: 300%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
 }
 @media screen and (max-width: 480px) {
   body {
@@ -434,6 +444,14 @@ Small Device Styles
     font-size: 11px;
   }
   
+  .menu ul {
+      width: 90%;
+  }
+
+  .menu li {
+      width: 100%;
+  }
+
   .iframe-wrap {
     position: relative;
     width: 100%;
@@ -504,34 +522,24 @@ Small Device Styles
 
 }
 
-  .menu ul {
-      width: 100%;
-      overflow: hidden;
-  }
+.menu ul {
+    width: 100%;
+    overflow: hidden;
+}
 
-  .menu li {
-      float: left;
-      width: 120px;
-      list-style-type: none;
-  }
+.menu li {
+    float: left;
+    width: 120px;
+    list-style-type: none;
+}
 
-  .menu a {
-      display: block;
-      padding: 15px 0;
-      text-align: center;
-      font-weight: bold;
-      text-decoration: none;
-      color: #fff;
-  }
-
-@media screen and (max-width: 480px){
-  .menu ul {
-      width: 90%;
-  }
-
-  .menu li {
-      width: 100%;
-  }
+.menu a {
+    display: block;
+    padding: 15px 0;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    color: #fff;
 }
 
 summary {
