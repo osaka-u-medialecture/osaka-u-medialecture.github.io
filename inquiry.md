@@ -1,6 +1,20 @@
 # チャットでの質問
 メディア教育に関して、チャットbotでの質問を受け付けています。  
+
+<span style="font-size : 120%">**CLE**</span>  
+<div class="iframe-wrap">
+<iframe src='https://webchat.botframework.com/embed/media-lecture-bot?s=wArsIEL1Lxo.hMUQAbA0TF1jMS15MzzaK6ix1mgv7Fi6KJzCQUr1zXA'
+ style='min-width: 200px; width: 100%; min-height: 400px;'></iframe>
+</div>
+
+<span style="font-size : 120%">**全教用**</span>
+<div class="iframe-wrap">
+<iframe src='https://webchat.botframework.com/embed/zenkyo-lecture-bot?s=ypImK64DxFk.KDbC3R0qHVJxAvq1hpENirYG6tLIqpZX0w2VCtY--og'style='min-width: 200px; width: 100%; min-height: 400px;'></iframe>
+ </div>
+ 
+<!--
 <https://sites.google.com/site/sshimojo/medialec>
+-->
 
 # 問い合わせ
 解決しなかった場合以下のフォームもしくは[こちら](https://docs.google.com/spreadsheets/d/1mWzlBU_PhmJ-6mh7RaZcGNEO72OYApXE/edit#gid=1133698428)からご質問ください。
