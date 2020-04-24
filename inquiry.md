@@ -8,7 +8,7 @@
 </div>  
 
 
-<span style="font-size : 120%">**全教用**</span>  
+<span style="font-size : 120%">**全学教育**</span>  
 <div class="iframe-wrap">
 <iframe src='https://webchat.botframework.com/embed/zenkyo-lecture-bot?s=ypImK64DxFk.KDbC3R0qHVJxAvq1hpENirYG6tLIqpZX0w2VCtY--og'
  style='min-width: 200px; width: 100%; min-height: 400px;'></iframe>
