@@ -5,9 +5,9 @@
 <div class="iframe-wrap">
 <iframe src='https://webchat.botframework.com/embed/media-lecture-bot?s=wArsIEL1Lxo.hMUQAbA0TF1jMS15MzzaK6ix1mgv7Fi6KJzCQUr1zXA'
  style='min-width: 200px; width: 100%; min-height: 400px;'></iframe>
-</div>
+</div>  
 
-<span style="font-size : 120%">**全教用**</span>
+<span style="font-size : 120%">**全教用**</span>  
 <div class="iframe-wrap">
 <iframe src='https://webchat.botframework.com/embed/zenkyo-lecture-bot?s=ypImK64DxFk.KDbC3R0qHVJxAvq1hpENirYG6tLIqpZX0w2VCtY--og'style='min-width: 200px; width: 100%; min-height: 400px;'></iframe>
  </div>
