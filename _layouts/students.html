@@ -16,24 +16,21 @@
     <div id="header_wrap" class="outer">
         <header class="inner">
           <div align="right">
-            <a href="{{site.url}}{{page.url | replace: '/en/', '/'}}" style="color:white;">日本語</a>
+            <ul>
+                <li><a href="{{site.url}}{{page.url | replace: '/students/', '/'}}" style="color:white;">教員用ページ</a></li>
+                <li><a href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=en&u={{site.url}}/{{page.url}}" style="color:white;">English</a></li>
+            </ul>
           </div>
 
-          <h1 id="project_title">Osaka University Online Class FAQs</h1>
+          <h1 id="project_title">大阪大学オンライン授業FAQ(学生用)</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
-          {% if site.show_downloads %}
-            <section id="downloads">
-              <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
-            </section>
-          {% endif %}
           <div class="menu">
             <ul>
-                <li><a href="https://osaka-u-medialecture.github.io/en/">TOP</a></li>
-                <li><a href="https://osaka-u-medialecture.github.io/en/cle">CLE</a></li>
-                <li><a href="https://osaka-u-medialecture.github.io/en/echo">echo</a></li>
-                <li><a href="https://osaka-u-medialecture.github.io/en/inquiry">inquiry</a></li>
+                <li><a href="https://osaka-u-medialecture.github.io/students/">TOP</a></li>
+                <li><a href="https://osaka-u-medialecture.github.io/students/cle">CLE</a></li>
+                <li><a href="https://osaka-u-medialecture.github.io/students/echo">echo</a></li>
+                <li><a href="https://osaka-u-medialecture.github.io/students/inquiry">inquiry</a></li>
             </ul>
           </div>
         </header>
