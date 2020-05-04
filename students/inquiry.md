@@ -1,3 +1,7 @@
+---
+layout: students
+---
+
 # チャットでの質問
 メディア教育に関して、チャットbotでの質問を以下のフォームもしくは[こちら](https://sites.google.com/site/sshimojo/medialec)で受け付けています。  
 
