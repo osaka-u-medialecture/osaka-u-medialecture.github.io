@@ -23,5 +23,5 @@ layout: students
 
 OUMailに関する良くある質問と回答を紹介しています。
 
-#CLE対応ブラウザについて
+# CLE対応ブラウザについて
 CLEやECHOを使用する際のブラウザとして、[Chrome](https://www.google.com/intl/ja_jp/chrome/)を推奨しています。使用ブラウザをChromeに変えると問題が発生しなくなったケースが多数確認されているため、もしChrome以外のブラウザで問題が発生しているのであれば、まず初めにChromeにお切り替えください。
