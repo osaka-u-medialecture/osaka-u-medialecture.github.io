@@ -18,4 +18,4 @@ Q. Blackboard Collaborate Ultraを用いて10人前後のラボミーティン�
 A.  お使いのブラウザはお持ちの機器に対応したものでしょうか。 WindowsまたはMac OSならChromeが、iPhoneまたはiPadならSafariがそれぞれ対応します
 
 Q. 先生がBlackboard Collaborate Ultraのセッションの録画をしたのですが、どこでその録画が見られるでしょうか。  
-A. このページ(https://www.cmc.osaka-u.ac.jp/?page_id=6438)に記載されている内容に従って操作を行ってください。  
+A. [このページ](https://www.cmc.osaka-u.ac.jp/?page_id=6438)に記載されている内容に従って操作を行ってください。  
