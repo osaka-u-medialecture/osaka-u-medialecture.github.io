@@ -16,3 +16,6 @@ A.  CLEの[コース欄]にご自身が開講する授業科目が登録され�
  
 Q. Blackboard Collaborate Ultraを用いて10人前後のラボミーティングに参加したのですが、自分だけ他の参加者の音声がまったく聞こえませんでした。  
 A.  お使いのブラウザはお持ちの機器に対応したものでしょうか。 WindowsまたはMac OSならChromeが、iPhoneまたはiPadならSafariがそれぞれ対応します
+
+Q. 先生がBlackboard Collaborate Ultraのセッションの録画をしたのですが、どこでその録画が見られるでしょうか。  
+A. このページ(https://www.cmc.osaka-u.ac.jp/?page_id=6438)に記載されている内容に従って操作を行ってください。  
